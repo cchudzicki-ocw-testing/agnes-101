@@ -1,0 +1,29 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "all-about-agnes"
+  },
+  "course_image": {
+    "content": "",
+    "website": "all-about-agnes"
+  },
+  "course_title": "All about Agnes",
+  "course_description": "This course is all about Agnes.\n\nBy the end of this course, you should be able to:\n\n- describe why Agnes is a really great baby\n-",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "456",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "all-about-agnes"
+  },
+  "learning_resource_types": [],
+  "site_uid": "a81cba42-9927-47f7-a659-1129c15926b3",
+  "site_short_id": "agnes-101"
+}
