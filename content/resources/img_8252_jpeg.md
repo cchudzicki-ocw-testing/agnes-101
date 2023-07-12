@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/all-about-agnes/img_8252.jpeg
+file: /media/courses/123-all-about-agnes-spring-2345/img_8252.jpeg
 file_size: 912776
 file_type: image/jpeg
 image_metadata:
