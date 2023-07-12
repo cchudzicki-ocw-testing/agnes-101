@@ -1,7 +1,9 @@
 {
-  "term": "",
+  "term": "Spring",
   "year": "",
-  "level": [],
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
@@ -9,7 +11,7 @@
     "website": "all-about-agnes"
   },
   "course_image": {
-    "content": "",
+    "content": "0eba26c9-20be-47e4-b73e-6a81c5a01877",
     "website": "all-about-agnes"
   },
   "course_title": "All about Agnes",
@@ -20,7 +22,7 @@
   "extra_course_numbers": "456",
   "primary_course_number": "123",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "0eba26c9-20be-47e4-b73e-6a81c5a01877",
     "website": "all-about-agnes"
   },
   "learning_resource_types": [],
